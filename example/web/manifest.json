@@ -1,0 +1,18 @@
+{
+    "name": "gundart_example",
+    "short_name": "gundart_example",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#0175C2",
+    "theme_color": "#0175C2",
+    "description": "Demonstrates how to use the gundart plugin.",
+    "orientation": "portrait-primary",
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "Icon.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        }
+    ]
+}

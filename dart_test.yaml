@@ -1,0 +1,2 @@
+platforms: [chrome]
+custom_html_template_path: test/template_test.html

@@ -1,0 +1,20 @@
+name: gun_dart_example
+description: Demonstrates how to use the gundart plugin.
+
+publish_to: 'none'
+
+environment:
+  sdk: '>=2.18.0 <3.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  gun_dart:
+    path: ../
+
+dev_dependencies:
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
