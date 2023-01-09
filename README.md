@@ -1,5 +1,8 @@
 # Gun Dart
 
+[![Pub Version](https://img.shields.io/pub/v/gun_dart?color=blue)](https://pub.dev/packages/gun_dart)
+[![Pub Points](https://img.shields.io/pub/points/gun_dart?color=darkblue)](https://pub.dev/packages/gun_dart)
+
 Gun Dart is a Dart wrapper around the [Gun JS](https://gun.eco/) library.
 
 This library is almost a 1:1 port of the JS library, with some minor changes to
@@ -16,7 +19,7 @@ Add the following to your `pubspec.yaml`:
 
 ```yaml
 dependencies:
-  gun_dart: ^0.1.0
+  gun_dart: ^0.1.1
 ```
 
 **Important** : Add the following to your `web/index.html`:

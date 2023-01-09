@@ -275,7 +275,7 @@ class User {
   }
 }
 
-/// The SAE  class used to encrypt and decrypt data.
+/// The SEA  class used to encrypt and decrypt data.
 ///
 /// Every method of this class is static.
 ///

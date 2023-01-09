@@ -3,7 +3,7 @@ description: >-
   A Dart wrapper around GunJs.
   Create beautiful DApps in flutter with 
   the decentralized P2P database Gun.
-version: 0.1.0
+version: 0.1.1
 repository: https://github.com/potions/gun_dart
 issue_tracker: https://github.com/potions/gun_dart/issues
 
